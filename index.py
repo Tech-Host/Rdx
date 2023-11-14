@@ -87,7 +87,6 @@ def hero():
         print("\n---------Successfully got the colour -------------")
         print('\n')
         last2=str(current)[-2:]
-        #samjha_maadarchod=lawde_time_pe_khel(last2)
         if(newperiod%2==0):
             sum=getSum(current)
             if(sum%2==0):
@@ -110,5 +109,5 @@ def hero():
             system('figlet Thank you!!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
-            sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+            sys.exit(" \n \n \n Contact on Telegram @VIP_Sameer_786")
             #print(numbers)
