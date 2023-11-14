@@ -1,6 +1,3 @@
-#rxce
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
 
 from os import system, name
 import itertools
@@ -115,10 +112,3 @@ def hero():
             print("-----------Current Time UP----------")
             sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
             #print(numbers)
-
-
-
-
-if(expirydate>today):
-    now = datetime.datetime.now()
-    First = now.replace(hour=13, minute=55, second=0, microsecond=0)
